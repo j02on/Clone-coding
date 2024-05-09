@@ -49,3 +49,29 @@ a {
   justify-content: space-between;
   margin: 10px 13px 65px 13px;
 }
+
+.searchBar {
+  border: none;
+  width: 400px;
+  height: 30px;
+}
+
+.searchBack {
+  width: 580px;
+  height: 60px;
+  border-radius: 150px;
+  box-shadow: 0px 0px 20px rgb(119, 119, 119);
+  border: rgb(119, 119, 119, 0.3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+svg {
+  color: #3e3e3e;
+}
+
+.searchAll {
+  display: flex;
+  column-gap: 40px;
+}
