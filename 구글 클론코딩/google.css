@@ -117,7 +117,8 @@ footer {
 }
 
 hr {
-  background-color: #f3f7ff;
+  border-color: rgb(219, 219, 219);
+  border-style: solid;
 }
 
 .footerEnd {
